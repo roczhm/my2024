@@ -1,2 +1,2 @@
-# SnapMix
-SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data (AAAI 2021
+# my2024
+it's my test 
